@@ -1,0 +1,21 @@
+.main-heading{
+    color:chartreuse;
+    text-align:center;
+    font-size:48px;
+}
+.bg-cover{
+    background-color:brown;
+    background-size:cover;
+    height:100vh;
+
+}
+.btn{
+    background-color: burlywood;
+    border-radius: 5px;
+    height: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.box{
+    text-align: right;
+    padding: 20px;
+}
